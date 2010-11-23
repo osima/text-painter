@@ -9,7 +9,7 @@ This is a text painter supported text-aligment ( both vertical and horizontal on
 ## build and run TestFrame
 
     $ gradle
-    $ java -cp build/libs/painter.jar org.notehub.awt.painter.TestFrame
+    $ java -cp build/libs/text-painter.jar org.notehub.awt.painter.TestFrame
 
 
 ## usage
@@ -18,6 +18,8 @@ please see java classes under ...
 
 - TestFrame.java
 - MultiLineLabel.java
+
+and also check javadoc build/docs/javadoc/index.html.
 
 
 ## requirements

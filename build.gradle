@@ -1,9 +1,9 @@
 //defaultTasks 'build'
 //defaultTasks 'build','javadoc','groovydoc'
-defaultTasks 'build'
+defaultTasks 'build', 'javadoc'
 
 
 apply plugin: 'java'
 //apply plugin: 'groovy'
-archivesBaseName = "painter"
+archivesBaseName = "text-painter"
 
